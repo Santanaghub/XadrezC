@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-#include <stdio.h>
-
 int main(){
    // mover a torre 5 casas a direita
    for (int i = 0; i < 5; i++) {
